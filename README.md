@@ -7,19 +7,19 @@ The tutorial first (and throughout) describes neural networks and Spiking Neural
 
 ## Below is a high-level outline of the tutorial
 
-### Description of the problem
-### Explanation of Spiking Neural Networks
-### Purpose/Reason for using Spiking Neural Networks
-### Plan for tackling the problem 
-### Getting the data and setting up files for Colab
-### Loading and exploring the data
-### Downloads and Imports
-### Hyperparameters
-### Loading the data properly
-### Explanation of how Spiking Neural Networks learn
-### Creating a model that is SNN + CNN
-### Defining Loss and Optimizer
-### Training the model
-### Exploring training results
-### Creating a model that is a 3D CNN, and training/testing
-### Experimentation with a 3D CNN + SNN & CNN, and training/testing
+* Description of the problem
+* Explanation of Spiking Neural Networks
+* Purpose/Reason for using Spiking Neural Networks
+* Plan for tackling the problem 
+* Getting the data and setting up files for Colab
+* Loading and exploring the data
+* Downloads and Imports
+* Hyperparameters
+* Loading the data properly
+* Explanation of how Spiking Neural Networks learn
+* Creating a model that is SNN + CNN
+* Defining Loss and Optimizer
+* Training the model
+* Exploring training results
+* Creating a model that is a 3D CNN, and training/testing
+* Experimentation with a 3D CNN + SNN & CNN, and training/testing
